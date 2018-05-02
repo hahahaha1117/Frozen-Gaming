@@ -1,5 +1,5 @@
 /* @pjs preload=
-"mg/bg.png,
+"img/bg.png,
  img/intro.png,
  img/gamestart.png,
  img/gameover.png,
@@ -35,5 +35,4 @@
  img/bml.png,
  img/mblood.png,
  img/bigMonsterRight0.png,
- img/bigMonsterRight1.png,
- img/bigMonsterRight2.png,";*/
+ img/bigMonsterRight1.png";*/
